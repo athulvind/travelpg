@@ -1,0 +1,22 @@
+.servh5c{
+    padding: 5%;
+    color: rgb(186, 15, 15);
+    font-weight: bold;
+    /* text-align: center; */
+}
+.servimgg{
+    width: 350px;
+    height: 300px;
+}
+.servdivflex{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    text-align: center;
+    margin-top: 2%;
+    flex-wrap: wrap;
+    margin-bottom: 20px;
+}
+.servac:hover{
+    font-size: 100px;
+}

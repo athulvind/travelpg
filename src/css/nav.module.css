@@ -1,0 +1,32 @@
+.div1{
+  
+    padding: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.navimg1{
+    width: 100px;
+    height: 80px;
+}
+
+.navkar{
+    text-decoration: none;
+    font-weight: 600;
+    color: black;
+    line-height: 1;
+    font-weight: bold;
+}
+.navrepair{
+    text-decoration: none;
+    color:black;
+    font-size: 18px;
+    font-weight: normal;
+    line-height: 1;
+}
+
+.alist{
+    text-decoration: none;
+    /* color: white; */
+    padding-left: 5%;
+}
